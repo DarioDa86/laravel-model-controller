@@ -8,6 +8,6 @@ class MovieController extends Controller
 {
     public function index()
     {
-        return "prova controller";
+        return "prova controller"; 
     }
 }
